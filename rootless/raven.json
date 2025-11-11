@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/ninharp/ota/releases/download/2025110801/raven-2025110801-75522a3-rootless.zip",
+    "location_csig": "https://github.com/ninharp/ota/releases/download/2025110801/raven-2025110801-75522a3-rootless.zip.csig"
+  }
+}
